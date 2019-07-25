@@ -1,0 +1,23 @@
+amino_label	amino_name	C	H	N	O	S
+1		Glicina		2	5	1	2	0
+2		Alanina		3	7	1	2	0
+3		Leucina		6	11	1	2	0
+4		Valina   	5	11 	1	2	0
+5		Isoleucina	6	13 	1	2	0
+6		Prolina 	5	9 	1	2	0
+7		Fenilalanina	9	11 	1 	2	0
+8		Serina   	3	7	1	3	0
+9		Treonina 	4	9	1	3	0
+10		Cisteina	3	7	1	2	1
+11		Tirosina	9	11	1	3	0
+12		Asparagina	4	8	1	3	0
+13		Glutamina	6	11	1	2	0
+14		Aspartato	4	7	1	4	0
+15		Glutamato	5	9	1	4	0
+16		Arginina	6	14	4	2	0
+17		Lisina		6	14	2	2	0
+18		Histidina	6	9	3	2	0
+19		Triptofano	11	12	2	2	0
+20		Metionina	5	11	1	2	1
+21		Metilamina	1	5	1	0	0
+
